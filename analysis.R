@@ -13,3 +13,8 @@ data <- read.csv("data/gapminder-FiveYearData.csv", stringsAsFactors=FALSE)
 # Check that this has worked by running this:
 #git config --list
 # (you should see your name and email here, and may see a few other things, but don't worry).
+
+# Subset the data
+# This will be version controlled
+
+# This will be controlled by git
